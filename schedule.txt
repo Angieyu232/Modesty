@@ -1,0 +1,37 @@
+Semester Schedule from Blackboard
+
+Fri, Jan 11 -- Project Charter due
+
+Fri, Jan 18 -- Product Backlog (Requirements Document) due
+
+Fri, Jan 25 -- Design Document due
+
+Mon, Jan 28 -- Sprint 1 Planning Document due
+
+Fri, Feb 22 -- Sprint 1 Review (Demo) Meeting 
+
+Mon, Feb 25 -- Sprint 1 Retrospective due
+
+Mon, Feb 25 -- Sprint 2 Planning Document due
+
+Mon, Feb 25 -- First Peer Evaluation Due
+
+Fri, Mar 29 -- Sprint 2 Review (Demo) Meeting 
+
+Mon, Apr 1 -- Sprint 2 Retrospective due
+
+Mon, Apr 1 -- Sprint 3 Planning Document due
+
+Mon, Apr 1 -- Second Peer Evaluation Due
+
+Fri, Apr 26 -- Final Project Presentations and Demonstrations (Sprint 3 Review (Demo) Meeting) 
+
+Mon, Apr 29 -- Sprint 3 Retrospective due
+
+Mon, Apr 29 -- Third Peer Evaluation Due
+
+Sprint 1 -- Jan 28 - Feb 22 (4 weeks)
+
+Sprint 2 -- Feb 25 - Mar 29 (4 weeks + 1 week Spring Break)
+
+Sprint 3 -- Apr 1 - Apr 26 (4 weeks)

@@ -1,0 +1,54 @@
+<mat-card class="example-card" layout="row" layout-align="center">
+  <mat-card-title>  User Setting </mat-card-title>
+<p>Input your desired time for daily limit</p>
+
+  <div class="form-group">
+  <label for="timer">Timer(min) </label>
+  <input type="number" class="form-control" id="timeLimit"
+         [(ngModel)]="timeLimit" name="timeLimit">
+        <button mat-raised-button color="primary" (click)='setTimer(timeLimit)'>Save</button>
+  </div>
+
+</mat-card>
+<br>
+
+<mat-card class="example-card" layout="row" layout-align="center">
+<form class="example-form">
+  <mat-form-field class="example-full-width">
+    <input matInput placeholder="input media source">
+  </mat-form-field>
+</form>
+</mat-card>
+
+<br>
+<button mat-raised-button (click)='connectPocketAPI()'>Connect To Pocket</button>
+<br>
+<br>
+<mat-card class="example-card" layout="row" layout-align="center">
+  <mat-card-title>  Set New Password </mat-card-title>
+  Input your new Password:
+    <ul>
+      <li>
+         <mat-form-field>
+           <input matInput  [(ngModel)]="newPass" placeholder="Enter your password" [type]="hide ? 'password' : 'text'">
+          <button mat-icon-button matSuffix (click)="hide = !hide" [attr.aria-label]="'Hide password'" [attr.aria-pressed]="hide">
+          <mat-icon>{{hide ? 'visibility_off' : 'visibility'}}</mat-icon>
+          </button>
+          </mat-form-field>
+      </li>
+      <li>
+          <mat-form-field>
+      <input matInput [(ngModel)]="newPassRepeat" placeholder="Repeat new password" [type]="hide ? 'password' : 'text'">
+      <button mat-icon-button matSuffix (click)="hide = !hide" [attr.aria-label]="'Hide password'" [attr.aria-pressed]="hide">
+      <mat-icon>{{hide ? 'visibility_off' : 'visibility'}}</mat-icon>
+      </button>
+    </mat-form-field>
+      </li>
+    </ul>
+    <button mat-raised-button color="primary" (click)='setNewPass()'> Submit New Password</button>
+
+</mat-card>
+<br>
+<br>
+<button mat-raised-button color="accent" (click)='deleteAcct()'>Delete Your Account</button>
+<br>
