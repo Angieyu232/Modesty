@@ -1,1 +1,0 @@
-ssh -i "AY-CS407-EC2.pem" ec2-user@ec2-3-17-25-114.us-east-2.compute.amazonaws.com
