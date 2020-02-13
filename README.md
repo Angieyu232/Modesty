@@ -21,10 +21,10 @@ matter of media consumption.
 - Using RESTful API for CRUD operations, Twitter API for fetching media feeds
 
 
-## To install and start 
+## To install & start 
 
-npm i
-npm start 
+- npm i
+- npm start 
 
 
 
