@@ -11,6 +11,8 @@ outlets and social accounts that they genuinely want to follow. By having users 
 their own daily time limit, I hope users can regain a sense of agency around the
 matter of media consumption.
 
+## UI mockup
+![Home Page MockUP](/img/modestyUImock.png)
 
 ## technology behind the scene
 
