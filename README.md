@@ -46,7 +46,9 @@ matter of media consumption.
 1. This app works on web browser on desktop as well as cell phones ( responsive
 web design).
 2. The user interface should be simple and clear.
-**If Time Permits:**
+
+
+#### If Time Permits:
 1. As a user, I would like to filter out certain keywords or specific topics from my
 media feed;
 2. As a user, I would like to be able to save contents I liked to “Favorites”.
