@@ -1,4 +1,6 @@
-# Modesty
+# Modesty 
+
+#### CS407 senior individual project, Spring 2019
 
 ## Purpose of this web app
 
