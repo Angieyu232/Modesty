@@ -1,8 +1,8 @@
-# Modesty 
+# Modesty Web App
 
 #### CS407 senior individual project, Spring 2019
 
-## Purpose of this web app
+## Purpose
 
 In an age of information overload, we’re inundated with social media and ceaseless
 flow of news with questionable contents. In Modesty web app, users can take
